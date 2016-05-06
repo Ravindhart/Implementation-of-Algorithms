@@ -1,5 +1,6 @@
 # Implementation-of-Algorithms
-This repository contains the jave code for implementating advance algorithms and data structures.
+This repository contains the jave code for implementating advance algorithms and data structures. It has the implementation of following:
+
 LinkedLists
 Stacks
 Queues
@@ -16,7 +17,7 @@ Euler tours and traversals
 Matching Algorithms
 
 Big Integer Arithmetic Implementation
-Different Hashing Algorithms
+Hashing Techniques
 Sorting Algoritms
 Pattern Matching Algorithms
 
