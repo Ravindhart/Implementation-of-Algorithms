@@ -1,22 +1,19 @@
 PROJECT DESCRIPTION:
 
-In this project, develop a program that implements arithmetic with large integers, of arbitrary size. 
-There are 3 levels for this project. All groups are required to complete Level 1. Levels 2 and 3 are optional, and help you to
-earn excellence credits.
+In this project, we developed a program that implements arithmetic with large integers, of arbitrary size. 
+There are 2 levels for this project.
 
-Code base: Java library: Lists, stacks, queues, sets, maps, hashing, trees. Do not use BigInteger, BigNum, or other libraries
-that implement arbitrary precision arithmetic.
+Code base: Java library: Lists, stacks, queues, sets, maps, hashing, trees. 
+Note: Did not use BigInteger, BigNum, or other libraries that implement arbitrary precision arithmetic.
 
-In this document, we will refer to this class as XYZ. Rename it suitably. You must use the following data structure for 
-representing XYZ: Linked list or Array List or Array of long integers, where the digits are in base B. In particular, 
-do not use strings to represent the numbers. Each node of the list stores exactly one long integer. 
-You can choose the value of B and define it globally in your class, for e.g., "final int B = 1000;". In the discussions below, 
-we will use B = 10, using linked lists to represent XYZ. For B = 10, the number 4628 is represented by the list: 8-->2-->6-->4.
+In this document, we will refer BigInteger class as XYZ. We have used Linked list of long integers, where the digits are in base B. 
+Each node of the list stores exactly one long integer. We can choose the value of B and define it globally in our class, for e.g., "final int B = 1000;". 
+In the discussions below, we will use B = 10, using linked lists to represent XYZ. For B = 10, the number 4628 is represented by the list: 8-->2-->6-->4.
 
 Level 1
 -------
 
-In level 1, all numbers are non-negative integers. Implement the following methods:
+In level 1, all numbers are non-negative integers. Implemented the following methods:
 
     XYZ(String s): Constructor for XYZ class; takes a string s as parameter, that stores a number in decimal, and creates the XYZ object representing that number. The string can have arbitrary length. In Level 1, the string contains only the numerals 0-9, with no leading zeroes.
     XYZ(Long num): Constructor for XYZ class.
@@ -32,7 +29,7 @@ In level 1, all numbers are non-negative integers. Implement the following metho
 Level 2:
 --------
 
-Implement Level 1 and the following additional capabilities. Implement negative numbers, so that subtract returns the correct answer instead of 0 when the result is negative. Additional functions to be implemented for Level 2:
+Implemented the following additional capabilities. Implemented negative numbers, so that subtract returns the correct answer instead of 0 when the result is negative. Additional functions to be implemented for Level 2 are:
 
     XYZ power(XYZ a, XYZ n): return a^n, where a and n are both XYZ. Here a may be negative, but assume that n is non-negative.
     XYZ divide(XYZ a, XYZ b): Divide a by b result. Fractional part is discarded (take just the quotient). Both a and b may be positive or negative. If b is 0, raise an exception.
