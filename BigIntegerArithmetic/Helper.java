@@ -1,3 +1,9 @@
+/**
+ * Class implementing Helper functions
+ * 
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/11/2016 2:42 pm
+ */
 import java.util.Iterator;
 
 
