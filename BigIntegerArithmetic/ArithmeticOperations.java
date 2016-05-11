@@ -1,3 +1,6 @@
+/* Class implementing Big Integer Arithmetic operations 
+@author Ravindhar Reddy Thallapureddy 
+Last modified on: 5/11/2016 2:34pm */
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
