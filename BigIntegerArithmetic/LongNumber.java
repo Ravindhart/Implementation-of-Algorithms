@@ -1,13 +1,10 @@
+/* Class Defining the Big Integer
+@author Ravindhar Reddy Thallapureddy 
+Last modified on: 5/11/2016 2:34pm */
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Pending : Verification 1. toString 2. Constructor(String) 3. Constructor
- * (Long)
- * 
- * @author Bala
- *
- */
+
 public class LongNumber {
 
 	List<Long> convertedNumber; // represents the number converted to base
