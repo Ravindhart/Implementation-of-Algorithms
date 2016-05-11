@@ -1,6 +1,9 @@
-/* Class Defining the Big Integer
-@author Ravindhar Reddy Thallapureddy 
-Last modified on: 5/11/2016 2:34pm */
+/**
+ * Class Defining the Big Integer
+ * 
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/11/2016 2:40 pm
+ */
 import java.util.ArrayList;
 import java.util.List;
 
