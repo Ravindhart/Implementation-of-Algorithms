@@ -1,8 +1,8 @@
 
 
 
-/** Timer class for roughly calculating running time of programs
- *  @author rbk
+/** Timer class for roughly calculating running time of programs, 
+ *  @author Balaji Raghavachari, Professor, UTD
  *  Usage:  Timer timer = new Timer();
  *          timer.start();
  *          timer.end();
