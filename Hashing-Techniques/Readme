@@ -6,8 +6,8 @@ a. Given an array of unsorted objects of some class (that implements hashCode an
    elements of arr[], and move them to arr[0..k-1]. Return k. Used hashing to implement 
    the algorithm in expected O(n) time.
 
-b. Finding the most frequently appearing element i.e.Writing a function that takes as parameter an array of integers, and 
-   returns an integer that is most frequent in the array. 
+b. Finding the most frequently appearing element i.e.Writing a function that takes as parameter 
+   an array of integers, and returns an integer that is most frequent in the array. 
 
 
 File Description:
