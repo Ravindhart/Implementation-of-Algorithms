@@ -4,7 +4,8 @@ import java.util.Random;
  * Sample Driver program for testing the performance of mostFrequent method
  * implementations i.e. Hashing Vs Sorting
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/11/2016 9:50 pm
  *
  */
 public class Driver {
