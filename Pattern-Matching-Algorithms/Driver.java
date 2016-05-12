@@ -3,9 +3,9 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 /**
- * class for implementing string matching
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- * 
+ * Driver class for implementing string matching
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/11/2016 10:13 pm
  */
 public class Driver {
 	public static void main(String[] args) throws FileNotFoundException {
