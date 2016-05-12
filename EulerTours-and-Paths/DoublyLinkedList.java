@@ -1,8 +1,8 @@
 /**
-* class for DoublyLinkedList
+* class for implementing DoublyLinkedList
 * 
-* @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
-*
+* @author Ravindhar Reddy Thallapureddy
+* Last modified on : 5/12/2016 10:34 am
 */
 public class DoublyLinkedList<T> {
 	Entry<T> header, tail;
