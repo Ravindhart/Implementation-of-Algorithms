@@ -1,14 +1,15 @@
-Project Description
-In this project, we implemented Hierholzer's algorithm to find Euler tour in a graph, a detailed explanation 
-of the algorithm can be found at: https://en.wikipedia.org/wiki/Eulerian_path.
+PROJECT DESCRIPTION
+In this project, we write code that finds an Euler tour or an Euler Path in a given graph. 
+The algorithm implemented here is known as Hierholzer's algorithm.
 
 A graph G is called Eulerian if it is connected and the degree of every vertex is an even number.
 It is known that such graphs aways have a tour (a cycle that may not be simple) that goes through
 every edge of the graph exactly once. Such a tour (sometimes called a circuit) is called an Euler tour.
 If the graph is connected, and it has exactly 2 nodes of odd degree, then it has an Euler Path connecting
-these two nodes, that includes all the edges of the graph exactly once.
+these two nodes, that includes all the edges of the graph exactly once.a detailed explanation of the 
+algorithm can be found at: https://en.wikipedia.org/wiki/Eulerian_path.
 
-In this project, we write code that finds an Euler tour or an Euler Path in a given graph. 
+
 
 The program includes the following two functions:
 
