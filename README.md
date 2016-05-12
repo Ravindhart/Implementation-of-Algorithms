@@ -1,5 +1,6 @@
 # Implementation-of-Algorithms
-This repository contains the jave code for implementating advance algorithms and data structures. It has the implementation of following:
+This repository contains the jave code for implementating advance algorithms 
+and data structures. It has the implementation of following:
 
 LinkedLists
 Stacks
