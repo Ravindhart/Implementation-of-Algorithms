@@ -8,7 +8,8 @@ import java.util.Random;
  * Implements hashing techniques to solve basic problems like finding distinct
  * element in array, comparing hashing performance against Arrays.sort.
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/11/2016 9:51 pm
  *
  */
 public class Hashing {
