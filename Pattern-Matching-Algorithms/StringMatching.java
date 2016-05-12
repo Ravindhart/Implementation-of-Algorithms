@@ -1,3 +1,9 @@
+/**
+ * Class implementing pattern matching algorithms
+ * 
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/11/2016 10:14 pm
+ */
 public class StringMatching {
 
 	public final static int base = 31;
