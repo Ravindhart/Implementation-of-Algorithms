@@ -1,3 +1,9 @@
+/**
+ * Class to shuffle the input data
+ * 
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/11/2016 9:52 pm
+ */
 
 import java.util.Random;
 
