@@ -1,10 +1,3 @@
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
-import java.util.Stack;
-
 /**
  * Assumptions: Graph is undirected.
  * For directed, minor tweaks are necessary in verifyGraph function to find odd vertex
@@ -13,9 +6,17 @@ import java.util.Stack;
 /**
  * class for checking euler property of a graph (incl. tour, path).
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- *
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/12/2016 10:34 am
  */
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+import java.util.Stack;
+
+
 public class EulerUtil {
 
 	/**
