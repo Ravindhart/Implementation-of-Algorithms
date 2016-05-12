@@ -1,1 +1,21 @@
+This project covers the following algorithms:
 
+a. Given an array of unsorted objects of some class (that implements hashCode and equals), 
+move the distinct elements of the array to the front. The function behaves as follows. 
+Let k be the number of distinct elements of A (k is not known). Find the k distinct elements of arr[], and move them to arr[0..k-1]. Return k. Use hashing to implement the algorithm in expected O(n) time. Signature: public static int findDistinct(T[] arr)
+
+b. Finding the most frequently appearing element
+i.e.Writing a function that takes as parameter an array of integers, and returns an integer that is most frequent in the array. 
+
+
+Instructions to Execute the files
+1. Extract the archive and Copy all the source files to the required directory.
+2. Please use below commands to compile the source files
+> javac Shuffle.java
+> javac Timer.java
+> javac Hashing.java
+> javac Driver.java
+
+
+3. Execute the files using below commands
+> java Driver
