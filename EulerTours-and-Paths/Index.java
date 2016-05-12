@@ -1,8 +1,8 @@
 /**
  * Implementation of this interface will let user to update and retrieve index.
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- * 
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/12/2016 10:34 am
  * @param: T: any object
  */
 public interface Index<T> {
