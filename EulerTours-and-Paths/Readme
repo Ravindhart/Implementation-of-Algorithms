@@ -1,0 +1,39 @@
+Project Description
+In this project, we implemented Hierholzer's algorithm to find Euler tour in a graph, a detailed explanation of the 
+algorithm can be found at: https://en.wikipedia.org/wiki/Eulerian_path.
+
+A graph G is called Eulerian if it is connected and the degree of every vertex is an even number.
+It is known that such graphs aways have a tour (a cycle that may not be simple) that goes through
+every edge of the graph exactly once. Such a tour (sometimes called a circuit) is called an Euler tour.
+If the graph is connected, and it has exactly 2 nodes of odd degree, then it has an Euler Path connecting
+these two nodes, that includes all the edges of the graph exactly once.
+
+In this project, we write code that finds an Euler tour or an Euler Path in a given graph. 
+
+The program includes the following two functions:
+
+static List<Edge> findEulerTour(Graph g)  // Return an Euler tour of g
+static boolean verifyTour(Graph g, List<Edge> tour, Vertex start) // verify whether given tour is a valid Euler tour
+
+
+Files Description:
+
+1. Driver.java  - Driver program.
+2. Graph.java - class which represents a graph
+3. Edge.java - class which represents an arc/edge of a graph
+4. Vertex.java - class which represents a vertex/node in a graph
+5. Helper.java - helper class for Graph functions 
+6. Index.java - Interface for Index
+7. DoublyLinkedList.java - class for DoublyLinkedList DS
+8. Entry.java - class for an entry in DoublyLinkedList
+9. Timer.java - class for capturing times
+10. EulerUtil.java - class which has methods for finding euler tours, paths
+11. EulerBean.java - class which acts a simple bean used as a return type from various functions
+
+Instructions to Execute the files
+1. Extract the archive and Copy all the source files to the required directory.
+2. Please use below commands to compile the source files
+> javac Driver.java
+3. Execute the files using below commands
+> java Driver [input.txt]
+Here input.txt is an optional input file from which the graph is read
