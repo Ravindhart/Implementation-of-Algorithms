@@ -1,6 +1,6 @@
 Project Description
-In this project, we implemented Hierholzer's algorithm to find Euler tour in a graph, a detailed explanation of the 
-algorithm can be found at: https://en.wikipedia.org/wiki/Eulerian_path.
+In this project, we implemented Hierholzer's algorithm to find Euler tour in a graph, a detailed explanation 
+of the algorithm can be found at: https://en.wikipedia.org/wiki/Eulerian_path.
 
 A graph G is called Eulerian if it is connected and the degree of every vertex is an even number.
 It is known that such graphs aways have a tour (a cycle that may not be simple) that goes through
