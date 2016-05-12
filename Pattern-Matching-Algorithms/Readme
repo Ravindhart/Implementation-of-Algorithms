@@ -1,0 +1,21 @@
+This project covers the implemention of the following pattern matching algorithms
+and compares their performance
+a. Naive 
+b. Rabin-Karp
+c. Knuth-Morris-Pratt
+d. Boyer-Moore:
+
+File Description
+1. Driver.java  - Driver program for string matching.
+2. StringMatching.java - class for string matching
+3. BoyerMoore.java - Class for BoyerMoore ( source: wikipedia)
+4. Timer.java - Timer class
+5. Report comparing the performance of these algorithms.
+
+Instructions to Execute the files
+1. Extract the archive and Copy all the source files to the required directory.
+2. Please use below commands to compile the source files
+> javac Driver.java
+3. Execute the files using below commands
+> java Driver [input.txt]
+
