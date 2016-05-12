@@ -3,10 +3,15 @@ This repository contains the jave code for implementating advance algorithms
 and data structures. It has the implementation of following:
 
 LinkedLists
+
 Stacks
+
 Queues
+
 Priority Queues
+
 Binary Trees
+
 AVL Trees
 Tries
 Skip Lists
