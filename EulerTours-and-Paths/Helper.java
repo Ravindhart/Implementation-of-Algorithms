@@ -1,11 +1,12 @@
-import java.util.Iterator;
-
 /**
  * class is a basic helper class with most used functionalities
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- * 
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/12/2016 10:34 am
  */
+import java.util.Iterator;
+
+
 public class Helper {
 
 	/**
