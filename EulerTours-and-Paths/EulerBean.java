@@ -1,8 +1,8 @@
 /**
  * class which acts a simple bean used as a return type from various functions
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- *
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/12/2016 10:37 am
  */
 public class EulerBean {
 
