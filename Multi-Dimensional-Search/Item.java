@@ -4,8 +4,8 @@ import java.util.Set;
 /**
  * class defining the Item
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- *
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/12/2016 7:49 am
  */
 public class Item {
 	long id;
