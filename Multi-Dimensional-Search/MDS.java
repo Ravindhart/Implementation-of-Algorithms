@@ -1,7 +1,8 @@
 
 /**
  * class implementing the multi dimensional search operations
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/12/2016 7:47 pm
  *
  */
 
