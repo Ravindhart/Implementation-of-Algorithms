@@ -1,0 +1,28 @@
+PROJECT DESCRIPTION
+1. Implemented BinaryHeap
+2. Implemented IndexedHeap and Prim's MST algorithm
+3. Compared the running times of Prim1 (with priority queue of edges)
+   and Prim2 (with indexed priority queue of vertices)
+
+DESCRIPTION OF FILES
+Driver.java  - Driver program.
+Graph.java - class which represents a graph
+Edge.java - class which represents an arc/edge of a graph
+Vertex.java - class which represents a vertex/node in a graph
+Helper.java - helper class for Graph functions 
+BinaryHeap.java - Heap implementation which has base fucntions like percolateUp and percolateDown
+IndexedHeap.java - Indexed Heap implementation
+IntegerComparator - Comparator for verifying the Heapsort
+PQ.java - Interface for Priority Queue
+Index.java - Interface for Index
+Shuffle.java - Utility for shuffling an array
+
+
+INSTRUCTIONS TO EXECUTE THE FILES
+1. Extract the archive and Copy all the source files to the required directory.
+2. Please use below commands to compile the source files
+> javac Driver.java
+3. Execute the files using below commands
+> java Driver [input.txt]
+Here input.txt is an optional input file from which the graph is read
+
