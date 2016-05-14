@@ -5,7 +5,8 @@ import java.util.Scanner;
 /**
  * simple driver program for testing BinaryHeap, Heapsort and MST
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 11:35 pm
  *
  */
 public class Driver {
