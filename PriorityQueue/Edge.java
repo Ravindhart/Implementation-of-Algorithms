@@ -1,6 +1,7 @@
 /**
  * Class that represents an arc in a Graph
- *
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 11:35 pm
  */
 public class Edge implements Comparable<Edge> {
 	public Vertex From; // head vertex
