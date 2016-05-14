@@ -1,6 +1,8 @@
 /**
  * Class to represent a graph
- * 
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 10:53 pm
+ */
  *
  */
 
