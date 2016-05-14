@@ -1,7 +1,10 @@
 
 import java.util.Random;
 
-/* Shuffle the elements of an array A[from..to] randomly */
+/* Shuffle the elements of an array A[from..to] randomly 
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 11:35 pm
+ */
 public class Shuffle {
     public static<T> void shuffle(T[] A, int from, int to) {
 	int n = to - from  + 1;
