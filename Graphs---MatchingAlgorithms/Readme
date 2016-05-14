@@ -1,0 +1,26 @@
+PROJECT DESCRIPTION
+Implemented the algorithm to find a maximum cardinality matching in a given bipartite graph G=(V,E). 
+Used BFS to test if the input graph is bipartite: partitioned the nodes into V = X U Y (outer and inner nodes),
+by placing nodes in even layers in X, and nodes in odd layers in Y. All edges must connect a node in X
+to a node in Y. If any edge of the graph connects 2 nodes of X, or 2 nodes of Y, then the graph is not bipartite.
+If the graph is not bipartite, then output the message "G is not bipartite" and exit. Otherwise, our program 
+should run the maximum matching algorithm and output a maximum matching. Improved running time
+by identifying multiple augmenting paths each time the alternating forest is built.
+
+
+DESCRIPTION OF FILES
+LP5Lev1.java  - Driver program.
+Matching.java - class having the matching functions
+Graph.java - class which represents a graph
+Edge.java - class which represents an arc/edge of a graph
+Vertex.java - class which represents a vertex/node in a graph
+Helper.java - helper class for Graph functions 
+Timer.java - class for capturing running times
+
+INSTRUCTIONS TO EXECUTE THE FILES
+1. Extract the archive and Copy all the source files to the required directory.
+2. Please use below commands to compile the source files
+> javac LP5Lev1.java
+3. Execute the files using below commands
+> java LP5Lev1 [input.txt] [VERBOSE]
+Here input.txt is an optional input file from which the graph is read
