@@ -2,8 +2,8 @@
 
 /**
  * Class to represent a vertex of a graph
- * 
- *
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 11:20 pm
  */
 
 import java.util.*;
