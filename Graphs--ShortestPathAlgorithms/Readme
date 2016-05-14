@@ -1,0 +1,20 @@
+PROGRAM DESCRIPTION:
+Implementation of shortest path algorithms: BFS, Dijkstra's algorithm, DAG shortest paths, and
+Bellman-Ford algorithm.
+
+Implemented a program that behaves as follows: given a directed graph as input, if the graph has 
+uniform weights (i.e., same positive weights for all edges), then it runs BFS to find shorest paths.
+Otherwise, if the graph is a directed, acyclic graph (DAG), then it runs DAG shortest paths. Otherwise,
+if the graph has only nonnegative weights, then it runs Dijkstra's algorithm. If all these test fail,
+then it runs the Bellman-Ford algorithm. If the graph has negative cycles, then it prints the message
+"Unable to solve problem. Graph has a negative cycle". 
+
+Instructions to Execute the files:
+1. Extract the archive and Copy all the source files to the required directory.
+2. Please use below commands to compile the source files
+> javac L1Driver.java
+> javac L2river.java
+3. Execute the files using below commands
+> java L1Driver.java  [input.txt]
+> java L2river.java  [input.txt]
+Here input.txt is an optional input file from which the graph is read
