@@ -1,6 +1,8 @@
 /**
  * Class that represents an arc in a Graph
- *
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 10:53 pm
+ */
  */
 public class Edge {
     public Vertex From; // head vertex
