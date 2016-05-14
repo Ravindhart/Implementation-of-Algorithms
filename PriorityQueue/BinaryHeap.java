@@ -4,7 +4,8 @@ import java.util.Comparator;
 /**
  * class for implementing Priority Queue
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 11:35 pm
  *
  * @param <T>
  *            : Object of any type
