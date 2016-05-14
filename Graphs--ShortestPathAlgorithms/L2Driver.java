@@ -1,13 +1,16 @@
+/**
+ * simple driver program for testing Shortest Path implementations
+ * 
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 10:53 pm
+ */
+ 
+ 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-/**
- * simple driver program for testing Shortest Path implementations
- * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- *
- */
+
 public class L2Driver {
 	/**
 	 * main method which reads input data from either System.in or file and
