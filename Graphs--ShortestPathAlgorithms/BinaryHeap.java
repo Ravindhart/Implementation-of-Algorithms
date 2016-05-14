@@ -1,15 +1,16 @@
-
-import java.util.Arrays;
-import java.util.Comparator;
-
 /**
  * class for implementing Priority Queue
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- *
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 10:53 pm
+ */
  * @param <T>
  *            : Object of any type
  */
+import java.util.Arrays;
+import java.util.Comparator;
+
+
 public class BinaryHeap<T> implements PQ<T> {
 	T[] pq;
 	Comparator<T> c;
