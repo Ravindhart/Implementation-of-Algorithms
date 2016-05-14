@@ -1,15 +1,16 @@
-
-import java.util.Comparator;
-
 /**
  * class for IndexedHeap i.e. simple class which extends BinaryHeap in addition
  * to maintaining the index of each element.
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- *
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 10:57 pm
+ */
  * @param <T>
  *            : any object that extends Index
  */
+import java.util.Comparator;
+
+
 public class IndexedHeap<T extends Index> extends BinaryHeap<T> {
 
 	/**
