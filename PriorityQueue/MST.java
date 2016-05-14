@@ -7,8 +7,8 @@ import java.util.Scanner;
 /**
  * class for calculating the weight of minimum spanning tree of given graph.
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- *
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 11:35 pm
  */
 public class MST {
 
