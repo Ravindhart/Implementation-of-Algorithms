@@ -4,8 +4,9 @@
  * control over operations like insert, add, min, peek, deleteMin, remove
  * elements from queue
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- *
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 10:53 pm
+ */
  * @param <T> : Object of any type
  */
 public interface PQ<T> {
