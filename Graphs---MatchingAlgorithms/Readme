@@ -3,7 +3,7 @@ Implemented the algorithm to find a maximum cardinality matching in a given bipa
 Used BFS to test if the input graph is bipartite: partitioned the nodes into V = X U Y (outer and inner nodes),
 by placing nodes in even layers in X, and nodes in odd layers in Y. All edges must connect a node in X
 to a node in Y. If any edge of the graph connects 2 nodes of X, or 2 nodes of Y, then the graph is not bipartite.
-If the graph is not bipartite, then output the message "G is not bipartite" and exit. Otherwise, our program 
+If the graph is not bipartite, then printed the message "G is not bipartite" and did exit. Otherwise, our program 
 should run the maximum matching algorithm and output a maximum matching. Improved running time
 by identifying multiple augmenting paths each time the alternating forest is built.
 
