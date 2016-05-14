@@ -1,8 +1,9 @@
 /**
  * class for representing the distance of a vertex.
  * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- *
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 10:53 pm
+ */
  */
 public class Distance {
 
