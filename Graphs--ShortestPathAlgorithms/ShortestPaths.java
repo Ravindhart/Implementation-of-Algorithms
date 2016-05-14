@@ -1,16 +1,18 @@
+/**
+ * class for finding the shortest path from source vertex using methods as
+ * applicable.
+ * 
+ * @author Ravindhar Reddy Thallapureddy
+ * Last modified on : 5/13/2016 10:59 pm
+ */
+ */
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-/**
- * class for finding the shortest path from source vertex using methods as
- * applicable.
- * 
- * @author G02 (Bala Chandra Yadav, Ravindhar, Mohammad Rafi)
- *
- */
+
 public class ShortestPaths {
 
 	/**
